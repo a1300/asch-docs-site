@@ -7,7 +7,9 @@ Install dependencies:
 ``` bash
 $ git clone https://github.com/4nil/asch-docs-site.git
 $ cd asch-docs-site
+$ sudo apt-get install build-essential
 $ npm install
+$ npm install hexo-cli -g
 ```
 
 Generate:
